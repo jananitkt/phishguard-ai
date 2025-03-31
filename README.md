@@ -10,6 +10,12 @@ A professional-grade, smart email scanner designed by **[@jananitkt](https://git
 - ✅ AI-style user interface with Bootstrap
 - ✅ Client-server architecture using Node.js + Express
 
+- ## 📸 Preview
+
+<img src="https://github.com/jananitkt/phishguard-ai/blob/main/emailmediumrisk.png" alt="AI-Powered Phishing Email Detector UI Screenshot" width="100%" />
+
+<img src="https://github.com/jananitkt/phishguard-ai/blob/main/emailhighrisk.png" alt="AI-Powered Phishing Email Detector UI Screenshot" width="100%" />
+
 ## 🧠 Educational Value
 
 - Cybersecurity awareness
